@@ -1,3 +1,5 @@
-# weather_arkas_3
+# Weather Hub
 
-A new Flutter project.
+Weather Hub is an application for checking weather around your country (for now)
+
+## Wait for new update :)
