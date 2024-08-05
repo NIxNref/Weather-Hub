@@ -1,4 +1,4 @@
-package com.example.weather_arkas_3
+package com.arka.weatherhub
 
 import io.flutter.embedding.android.FlutterActivity
 

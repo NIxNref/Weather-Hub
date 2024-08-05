@@ -1,8 +1,9 @@
-import 'package:bloc/bloc.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:weather/weather.dart';
-import 'package:weather_arkas_3/data/my_data.dart';
+
+import '../data/my_data.dart';
 
 part 'weather_bloc_event.dart';
 part 'weather_bloc_state.dart';

@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:weather_arkas_3/bloc/weather_bloc_bloc.dart';
-import 'package:weather_arkas_3/screens/home_screen.dart';
+
+import '../bloc/weather_bloc_bloc.dart';
+import '../screens/home_screen.dart';
 
 void main() {
   runApp(const MainApp());
